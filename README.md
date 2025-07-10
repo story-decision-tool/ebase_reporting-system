@@ -1,1 +1,3 @@
-# ebase_reporting-system
+# eBASE Africa Reporting System
+
+Setup instructions and project overview.
